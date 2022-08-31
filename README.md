@@ -18,3 +18,17 @@ jingguotaiduo/jingguotaiduo is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 
 --->
+
+The common command for gitlab:
+(1) git add .
+(2) git commit -m "message"
+(3) git pull origin master
+(4) git push origin master
+
+The common command for github:
+(1) git add .
+(2) git commmit -m "message"
+(3) git remote add master https://github.com/jingguotaiduo/-.git
+(4) git branch -M master
+(5) git pull
+(6) git push -u origin master
