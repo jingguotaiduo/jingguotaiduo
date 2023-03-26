@@ -43,3 +43,17 @@ The common command for github:
     (5) git pull
 
     (6) git push -u origin master
+    
+    (7) git remote -v
+    
+    (8) git status
+    
+    (9) git branch
+    
+    (10) git checkout branchName
+    
+    (11) git fetch --all
+    
+    (12) git reset --hard commitedID
+    
+    (13) git diff commitedID1 commitedID2
