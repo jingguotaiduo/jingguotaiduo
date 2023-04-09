@@ -56,4 +56,4 @@ The common command for github:
     
     (12) git reset --hard commitedID
     
-    (13) git diff commitedID1 commitedID2
+    (13) git diff --name-status commitedID1 commitedID2
