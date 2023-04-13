@@ -30,18 +30,15 @@ The common command for gitlab:
     (4) git push origin master
     
     (5) Gitlab上快速获取某个commit下改变的文件名：(Open the Google Chrome Browser or Microsoft Edge Browser ，F12 Open the Console, to paste the following js codes to run, and then you will get the results! 
-<pre>
-<code>
-{
-    let titles = document.getElementsByClassName('file-title-name has-tooltip gl-word-break-all');
-    for(let i=0;i<titles.length;i++)
-        console.log(titles[i].innerText);
-    let titles = document.getElementsByClassName('file-title-name has-tooltip gl-word-break-all');
-    for(let i=0;i<titles.length;i++)
-        console.log(titles[i].innerText);
-}
-</code>
-</pre>
+    
+        {
+            let titles = document.getElementsByClassName('file-title-name has-tooltip gl-word-break-all');
+            for(let i=0;i<titles.length;i++)
+                console.log(titles[i].innerText);
+            let titles = document.getElementsByClassName('file-title-name has-tooltip gl-word-break-all');
+            for(let i=0;i<titles.length;i++)
+                console.log(titles[i].innerText);
+        }
 
 
 The common command for github:
