@@ -36,9 +36,6 @@ The common command for gitlab:
     let titles = document.getElementsByClassName('file-title-name has-tooltip gl-word-break-all');
     for(let i=0;i<titles.length;i++)
         console.log(titles[i].innerText);
-}
-
-{
     let titles = document.getElementsByClassName('file-title-name has-tooltip gl-word-break-all');
     for(let i=0;i<titles.length;i++)
         console.log(titles[i].innerText);
