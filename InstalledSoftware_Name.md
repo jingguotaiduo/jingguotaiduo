@@ -7,7 +7,7 @@
 # 4、办公类软件
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Word、Excel、PowerPoint、Visio、Access、Adobe Acrobat DC
 # 5、数据库软件
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SQL Server、Access、MySQL、Oracle、Navicat、PostgreSQL、Rational Rose
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SQL Server、Access、MySQL、Oracle、Navicat、PostgreSQL、Rational Rose、SQLite3
 # 6、编程类软件（IDE）
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visual C++ 6.0、CodeBlocks、Microsoft Visual Studio、VS Code、Eclipse、MyEclipse、IDEA、WebStorm、PyCharm、Spyder、Nodepad、Nodejs、Anaconda
 # 7、游戏类软件
@@ -40,3 +40,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tomcat、Ngnix、ODE、ArcGIS Server、GeoServer、52North、Geomesa
 # 21、虚拟机软件
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VMWare、VirtualBox、Docker
+# 22、Git代码服务器
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitLab、SCMManager
+# 23、AutoDesk系列软件
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AutoCAD、Revit、CASS
