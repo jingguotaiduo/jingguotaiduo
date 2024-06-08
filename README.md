@@ -79,6 +79,8 @@ The common command for github:
 
    （18）git init
 
+    (19) git checkout -b branchName origin/remotebranchName  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you are instrested in commands about git, please enter <kbd>git help --all</kbd> in the terminal window, and then the following tips will be shown!
 
 ```
